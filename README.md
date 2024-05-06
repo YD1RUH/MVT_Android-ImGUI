@@ -4,7 +4,8 @@ Mobile Verification Toolkit with GUI Interface
 ![image](https://github.com/YD1RUH/MVT_Android-ImGUI/blob/main/MVT-android.jpg)
 
 ## Requirement
-- Linux Operating System 
+- Linux Operating System 64 bit
+- Recommended Ubuntu 20.04 or later
 - python3 : `sudo apt install python3`
 - xterm : `sudo apt install xterm`
 - DearPyGUI : `pip3 install dearpygui`
