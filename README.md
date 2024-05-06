@@ -14,6 +14,8 @@ Mobile Verification Toolkit with GUI Interface
 - go into the directory `cd MVT_Android-ImGUI`
 - make all file executable `chmod +x *`
 - Open terminal, then run `./MVT-ImGUI`
-  ![image](https://github.com/YD1RUH/MVT_Android-ImGUI/blob/main/MVT-android2.jpg)
+  
+![image](https://github.com/YD1RUH/MVT_Android-ImGUI/blob/main/MVT-android2.jpg)
+
 - Click **INSTALL ADB** to install ADB on system
 - Click **INSTALL MVT** to install Mobile Verification Toolkit on system
